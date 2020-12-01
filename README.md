@@ -1,3 +1,6 @@
+# TypePack
+### Klasa do operacji na typach w czasie kompilacji
+
 TypePack pozwala przechowywać wiele dowolnych typów a następnie wykonywać na nich operacje w czasie kompilacji (metaprograming). Poszczególne funkcje pozwalają np. zliczyć ile typów danego typu jest w paczce typów. Lista funkcji:
 
 ```C++
